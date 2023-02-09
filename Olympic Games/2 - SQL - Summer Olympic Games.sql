@@ -1,4 +1,6 @@
 -- Mean Ages of Summer Olympic Games Athletes
+-- ==========================================
+-- 
 -- A study of mean ages of Olympic athletes competing from 1896 to 2020.
 --
 -- Author: Mark Richards
@@ -15,6 +17,7 @@
 -- We need to:
 -- Drop rows with null values in the Age column.
 -- When analysing medal winners, we need to filer out nulls in the Medal column.
+
 
 -- Mean Age of Male and Female Competitors
 -- =======================================
