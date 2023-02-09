@@ -9,13 +9,15 @@ My name is __Mark Richards__. I've been a data analyst for about ten years, for 
 
 In the old days, prospectors would take gravel from a riverbed into a wide pan and wash and sift it carefully, removing the soil and rocks, until all that remained was the tiny fragments of gold that they sought. 
 
-Data in and of itself has little value - it's basically gravel. But by cleaning and transforming that data, the gold hidden within it can be found. That is what orginally led me into data analysis and that is what keeps me working in the field.
+Data analysis is just like that: by cleaning and transforming data the gold hidden within it can be found. And although doing this can be challenging, it is also really fun :). 
 
 ## Case Studies
 
-I've included some examples of my work in SQL, R and Python. These are mostly small targeted business tasks of the kind commonly used in interviews. I've tried to include explanations of my thought processes and considerations in each one.
+I've included some examples of my work in Python, SQL, and R. 
 
-- 
+- __Olympic Games__: This is a study of the mean ages of male and female Olympic athletes over all Summer Olympic Games from 1896 to 2020.
+    1. This is a Python Jupyter notebook containing the principle analysis.
+    2. This is a replication of the same analysis using SQL.
 
 ## Contact Details
 
