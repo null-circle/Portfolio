@@ -10,11 +10,11 @@
 
 
 -- Cleaning
---
+-- ========
+-- 
 -- We need to:
 -- Drop rows with null values in the Age column.
--- For the nulls in Medals we can just select not null when analysing
--- medal winners.
+-- When analysing medal winners, we need to filer out nulls in the Medal column.
 
 -- Mean Age of Male and Female Competitors
 -- =======================================
