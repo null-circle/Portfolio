@@ -17,8 +17,8 @@ I've included some examples of my work in Python, SQL, and R.
 
 - __Olympic Games__: This is a study of the mean ages of male and female Olympic athletes over all Summer Olympic Games from 1896 to 2020.
 
-1. This is a Python Jupyter notebook containing the principle analysis.
-2. This is a replication of the same analysis using SQL.
+    1. Python - Summer Olympic Games.ipynb: This is a Python Jupyter notebook containing the principle analysis.
+    2. SQL - Summer Olympic Games.sql: This is a replication of the same analysis using only SQL.
 
 ## Contact Details
 
