@@ -5,7 +5,8 @@
 -- Email: mark.thomas.richards@outlook.com
 
 -- Note: This was developed using BigQuery which uses Google Standard SQL. In 
--- that dialect "Name" and "Year" are not reserved words. 
+-- that dialect "Name" and "Year" are not reserved words and so are not bracketed
+-- below. 
 
 
 -- Cleaning
@@ -42,8 +43,7 @@ ORDER BY
 -- Mean Age of Male and Female Medal Winners
 -- =========================================
 --
--- We need to repeat the above analysis but replacing null in Medal with "No Medal"
--- and filtering out non-medal winners.
+-- We need to repeat the above analysis but filtering out non-medal winners.
 
 SELECT
   Year, Sex, AVG(Age) AS MeanAge
@@ -54,7 +54,7 @@ FROM
     FROM
       Athletes_summer_games
     WHERE
-      Age IS NOT NULL AND Medal IS NOT NULL -- Drop Age rows when null and select only medal winners
+      Age IS NOT NULL AND Medal IS NOT NULL
   )
 GROUP BY
   Year, Sex
