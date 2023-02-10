@@ -19,6 +19,9 @@ I've included some examples of my work in Python, SQL, and R.
     * 1 - Python - Summer Olympic Games.ipynb: This is a Python Jupyter notebook containing the principle Pandas analysis.
     * 2 - SQL - Summer Olympic Games.sql: This is a replication of the same analysis using only SQL.
 
+* __Github Developer Programming Languages and Technologies__: This is a study of the most popular languages and technologies of Github developers, based on the top 1000 starred repositories. The data is in a very wide and somewhat awkward format, so this is a little exercise in transformation. 
+    * 1 - Python - Github Developer Programming Languages and Technologies.ipynb: This is a Python Jupyter notebook containing the principle Pandas analysis.
+
 ## Contact Details
 
 Email: mark.thomas.richards@outlook.com 
