@@ -1,6 +1,6 @@
 !["Kilobaud_Microcomputing_1979_June_0044.jpg"](https://flashbak.com/wp-content/uploads/2018/02/Kilobaud_Microcomputing_1979_June_0044.jpg)
 
-Typical github developers.
+Typical Github developers.
 
 # Github Developer Programming Languages and Technologies
 
