@@ -1,7 +1,8 @@
 # Portfolio
 
 !["Data analysis circa 1535"](https://upload.wikimedia.org/wikipedia/commons/8/87/Panning_Gold_in_the_Early_Colonial_Period%2C_1535.jpeg)
-Three data analysts hard at work, around 1535.
+
+_Three data analysts hard at work, around 1535._
 
 ## About Me
 
