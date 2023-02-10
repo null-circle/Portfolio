@@ -2,7 +2,7 @@
 
 !["Data analysis circa 1535"](https://upload.wikimedia.org/wikipedia/commons/8/87/Panning_Gold_in_the_Early_Colonial_Period%2C_1535.jpeg)
 
-_Three data analysts hard at work, around 1535._
+_Three data analysts hard at work, 1535._
 
 ## About Me
 
