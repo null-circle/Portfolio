@@ -15,4 +15,4 @@ I was thinking along these lines and came up with the following question:
 >
 >Then they pass us only the list of results. 
 >
->Is there any way for us to work out what the numbers on their die were, just from the results?  
+>Is there any way for us to work out what the numbers on their die were, just from the results and just using Pandas?  
