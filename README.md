@@ -23,6 +23,9 @@ I've included some examples of my work in Python, SQL, and R.
 * __Github Developer Programming Languages and Technologies__: This is a study of the most popular languages and technologies of Github developers, based on the top 1000 starred repositories. The data is in a very wide and somewhat awkward format, so this is a little exercise in transformation. 
     * 1 - Python - Github Developer Programming Languages and Technologies.ipynb: This is a Python Jupyter notebook containing the principle Pandas analysis.
 
+* __Prime Numbered Dice__: This is a fun study of trying to solve the following problem: if someone has a (secret) die with random prime numbers on it, and they make n trials where they roll the die twice, multiply the results, and write them down, is there any way for us to work out what numbers were on their die _just from the list of n results_? 
+    * 1 - Python - Prime Numbered Dice.ipynb: A Python Jupyter notebook which generates prime dice and dice-roll trials and then analyses the results. 
+
 ## Contact Details
 
 Email: mark.thomas.richards@outlook.com 
