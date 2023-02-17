@@ -16,13 +16,13 @@ Data analysis is just like that: by cleaning and transforming data the gold hidd
 
 I've included some examples of my work in Python, SQL, and R. 
 
+* __Royal Flush__: This is an analyis of 1000 pairs of poker hands to determine the winner, using a complex series of evaluations.
+    * 1 - Python - Royal Flush.ipynb: A Python Jupyter notebook containing the full analysis. 
 * __Olympic Games__: This is a study of the mean ages of male and female Olympic athletes over all Summer Olympic Games from 1896 to 2020.
-    * 1 - Python - Summer Olympic Games.ipynb: This is a Python Jupyter notebook containing the principle Pandas analysis.
+    * 1 - Python - Summer Olympic Games.ipynb: A Python Jupyter notebook containing the principle Pandas analysis.
     * 2 - SQL - Summer Olympic Games.sql: This is a replication of the same analysis using only SQL.
-
 * __Github Developer Programming Languages and Technologies__: This is a study of the most popular languages and technologies of Github developers, based on the top 1000 starred repositories. The data is in a very wide and somewhat awkward format, so this is a little exercise in transformation. 
-    * 1 - Python - Github Developer Programming Languages and Technologies.ipynb: This is a Python Jupyter notebook containing the principle Pandas analysis.
-
+    * 1 - Python - Github Developer Programming Languages and Technologies.ipynb: A Python Jupyter notebook containing the principle Pandas analysis.
 * __Prime Numbered Dice__: This is a fun study of trying to solve the following problem: if someone has a (secret) die with random prime numbers on it, and they make n trials where they roll the die twice, multiply the results, and write them down, is there any way for us to work out what numbers were on their die _just from the list of n results and just using Pandas_? 
     * 1 - Python - Prime Numbered Dice.ipynb: A Python Jupyter notebook which generates prime dice and dice-roll trials and then analyses the results. 
 
