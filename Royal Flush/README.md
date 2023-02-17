@@ -10,10 +10,12 @@ This is my attempt to solve [Project Euler Problem 54](https://projecteuler.net/
 
 We are given a 1000 line text file where each line represents a pair of 5-card poker hands.
 
+```
 8C TS KC 9H 4S 7D 2S 5D 3S AC
 5C AD 5D AC 9C 7C 5H 8D TD KS
 3H 7H 6S KC JS QH TD JC 2D 8S
 ...
+```
 
 Each card is encoded as rank+suit: "8C" = Eight of clubs, etc.
 
