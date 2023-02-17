@@ -2,7 +2,7 @@
 
 ![Kartenspielende Zirkusleute (Circus people playing cards), Gert Heinrich Wollheim](https://media.mutualart.com/Images/2019_05/23/16/161344333/e1053a60-5877-4f25-8410-04751b862a33_570.Jpeg)
 
-When you finally realise why you should not play cards with a clown...
+_When you finally realise why you should not play cards with a clown..._
 
 ## The Problem
 
