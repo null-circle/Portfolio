@@ -17,7 +17,7 @@ We are given a 1000 line text file where each line represents a pair of 5-card p
 ...
 ```
 
-Each card is encoded as rank + suit: "8C" = eight of clubs, etc.
+Each card is encoded as rank + suit: "8C" indicates eight of clubs, etc.
 
 The first five cards are player 1's hand and the second five are player 2's hand.
 
