@@ -6,30 +6,16 @@ _Three data analysts hard at work, 1535._
 
 ## About Me
 
-My name is __Mark Richards__. I've been a data analyst for about ten years, for the past three working in trade compliance and before that in production, inventory and processes, using SQL, Pandas, Matplotlib, Excel and PowerQuery to provide answers to stakeholders on business tasks of all kinds. I have a Google Data Analytics Professional Certificate and also know R and the Tidyverse.
+In the old days, people looking for gold would take gravel from a riverbed into a wide pan and wash and sift it carefully - the gold was there, tiny fragments mixed in with all the rocks and dirt, but it was hard to find without a lot of work. Persistence, however, could (and sometimes did) make them rich. This is pretty much what data analysis is: with enough work and ingenuity _data_ can be turned into _information_, the gold every business needs to be successful.
 
-In the old days, prospectors would take gravel from a riverbed into a wide pan and wash and sift it carefully, removing the soil and rocks, until all that remained was the tiny fragments of gold that they sought. 
-
-Data analysis is just like that: by cleaning and transforming data the gold hidden within it can be found. And although doing this can be challenging, it is also really fun :). 
+My name is __Mark Richards__. I've been a data analyst for about ten years, for the past three working in trade compliance and before that in production, inventory and processes, using SQL, Python/Pandas, Excel and PowerQuery to provide answers to stakeholders on business tasks of all kinds. I have a Google Data Analytics Professional Certificate and also know R and the Tidyverse. Below are some examples of my work.
 
 ## Case Studies
 
-I've included some examples of my work in Python, SQL, and R. 
-
-* __Royal Flush__: This is an analyis of 1000 pairs of poker hands to determine the winner, using a complex series of evaluations.
-    * 1 - Python - Royal Flush.ipynb: A Python Jupyter notebook containing the full analysis. 
-* __Olympic Games__: This is a study of the mean ages of male and female Olympic athletes over all Summer Olympic Games from 1896 to 2020.
-    * 1 - Python - Summer Olympic Games.ipynb: A Python Jupyter notebook containing the principle Pandas analysis.
-    * 2 - SQL - Summer Olympic Games.sql: This is a replication of the same analysis using only SQL.
-* __Github Developer Programming Languages and Technologies__: This is a study of the most popular languages and technologies of Github developers, based on the top 1000 starred repositories. The data is in a very wide and somewhat awkward format, so this is a little exercise in transformation. 
-    * 1 - Python - Github Developer Programming Languages and Technologies.ipynb: A Python Jupyter notebook containing the principle Pandas analysis.
-* __Prime Numbered Dice__: This is a fun study of trying to solve the following problem: if someone has a (secret) die with random prime numbers on it, and they make n trials where they roll the die twice, multiply the results, and write them down, is there any way for us to work out what numbers were on their die _just from the list of n results and just using Pandas_? 
-    * 1 - Python - Prime Numbered Dice.ipynb: A Python Jupyter notebook which generates prime dice and dice-roll trials and then analyses the results. 
+* __Royal Flush__: This is an analyis of a data file containing 1000 pairs of poker hands to determine the winner, using Python/Pandas to make a complex series of evaluations.
+* __Olympic Games__: This is a study of the mean ages of male and female Olympic athletes over all Summer Olympic Games from 1896 to 2020, in Python/Pandas and then replicated in SQL.
+* __Github Developer Programming Languages and Technologies__: This is a study of the most popular programming languages and technologies of Github developers based on the top 1000 starred repositories, a simple little exercise using Python/Pandas.
 
 ## Contact Details
 
-Email: mark.thomas.richards@outlook.com 
-
-
-
-
+Email: mark.thomas.richards@outlook.com

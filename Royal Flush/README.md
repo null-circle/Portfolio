@@ -1,6 +1,6 @@
 # Royal Flush
 
-![Kartenspielende Zirkusleute (Circus people playing cards), Gert Heinrich Wollheim](https://media.mutualart.com/Images/2019_05/23/16/161344333/e1053a60-5877-4f25-8410-04751b862a33_570.Jpeg)
+![Kartenspielende Zirkusleute (Circus people playing cards), Gert Heinrich Wollheim](./Images/Kartenspielende%20Zirkusleute%20-%20Gert%20Heinrich%20Wollheim%20.jpeg)
 
 _When you finally realise why you should not play cards with a clown..._
 
@@ -10,14 +10,14 @@ This is my attempt to solve [Project Euler Problem 54](https://projecteuler.net/
 
 We are given a 1000 line text file where each line represents a pair of 5-card poker hands.
 
-```
+``` text
 8C TS KC 9H 4S 7D 2S 5D 3S AC
 5C AD 5D AC 9C 7C 5H 8D TD KS
 3H 7H 6S KC JS QH TD JC 2D 8S
 ...
 ```
 
-Each card is encoded as rank+suit: "8C" = Eight of clubs, etc.
+Each card is encoded as rank + suit: "8C" = eight of clubs, etc.
 
 The first five cards are player 1's hand and the second five are player 2's hand.
 
