@@ -16,7 +16,7 @@
 -- 
 -- We need to:
 -- Drop rows with null values in the Age column.
--- When analysing medal winners, we need to filer out nulls in the Medal column.
+-- When analysing medal winners, we need to filter out nulls in the Medal column.
 
 
 -- Mean Age of Male and Female Competitors
