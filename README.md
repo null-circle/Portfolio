@@ -8,7 +8,7 @@ _Three data analysts hard at work, 1535._
 
 In the old days, people looking for gold would take gravel from a riverbed into a wide pan and wash and sift it carefully - the gold was there, tiny fragments mixed in with all the rocks and dirt, but it was hard to find without a lot of work. Persistence, however, could (and sometimes did) make them rich. This is pretty much what data analysis is: with enough work and ingenuity _data_ can be turned into _information_, the gold every business needs to be successful.
 
-I'm __Mark Richards__ and I have been a data analyst (with additional other responsibilities) for about 10 years, working on business tasks connected with trade compliance, production, inventory and processes using __Python__, __Pandas__, __SQL__, __Power Query__ and __Excel__, and I also know __R__ and the __Tidyverse__. I have a __Google Data Analytics Professional Certificate__.
+I'm __Mark Richards__ and I have been a data analyst (with additional other responsibilities) for about 10 years, working on business tasks connected with trade compliance, production, inventory and processes using __Python__, __Pandas__, __SQL__, __Power Query__ and __Excel__, and I also know __R__ and the __Tidyverse__. I have a __Google Data Analytics Professional Certificate__. Below are a few example case studies I have created.
 
 ## Case Studies
 

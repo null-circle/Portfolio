@@ -23,4 +23,4 @@ The first five cards are player 1's hand and the second five are player 2's hand
 
 The goal is for us to determine, for each pair of hands, who was the winner by applying the standard ranking of poker hands, so that we can find out how many hands player 1 won.
 
-Evaluation of poker hands is quite a complex matter and this is not a simple problem :)
+Evaluation of poker hands is quite a complex matter and this is not a simple problem.
