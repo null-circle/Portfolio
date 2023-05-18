@@ -1,9 +1,5 @@
 # Royal Flush
 
-![Kartenspielende Zirkusleute (Circus people playing cards), Gert Heinrich Wollheim](./Images/Kartenspielende%20Zirkusleute%20-%20Gert%20Heinrich%20Wollheim%20.jpeg).
-
-_When you finally realise why you should not play cards with a clown..._
-
 ## The Problem
 
 This is my attempt to solve [Project Euler Problem 54](https://projecteuler.net/problem=54) using data analysis.

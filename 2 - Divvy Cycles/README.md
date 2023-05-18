@@ -1,9 +1,5 @@
 # Divvy Cycles
 
-!["John Boyd Dunlop on a bicycle c. 1915"](https://upload.wikimedia.org/wikipedia/commons/a/a8/John_Boyd_Dunlop_%28c1915%29.jpg)
-
-_Santa pursues the Grinch after the theft of Christmas, 1915._
-
 This is an R case study based open source data provided by Lyft Bikes and Scooters LLC who operate the city of Chicago’s Divvy bike sharing service, which allows people to hire bicycles from any of 600+ bike stations across Chicago for short-duration trips.
 
 Further information on the Divvy bike service data can be found at ["https://ride.divvybikes.com/system-data"](https://ride.divvybikes.com/system-data).
