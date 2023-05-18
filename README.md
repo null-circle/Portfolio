@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Mark Richards, an experienced supply chain administrator - a planning analyst for 7 years, an import/export coordinator for 3 years - with advanced Excel skills (formulas, pivot tables, power query,VBA) and a wide knowledge of ERP systems (an SAP Superuser), Materials Requirement Planning (MRP), Forecasting, Production, Procurement, and business processes.
+I am Mark Richards, an experienced supply chain administrator - a planning analyst for 7 years, an import/export coordinator for 3 years - with advanced Excel skills (formulas, pivot tables, power query, VBA) and a wide knowledge of ERP systems (an SAP Superuser), Materials Requirement Planning (MRP), Forecasting, Production, Procurement, and business processes.
 
 I also have a Google Data Analytics Professional Certificate and am familiar with SQL, Python, R and business reporting.
 
