@@ -1,6 +1,6 @@
 # Royal Flush
 
-![Kartenspielende Zirkusleute (Circus people playing cards), Gert Heinrich Wollheim](./Images/Kartenspielende%20Zirkusleute%20-%20Gert%20Heinrich%20Wollheim%20.jpeg)
+![Kartenspielende Zirkusleute (Circus people playing cards), Gert Heinrich Wollheim](./Images/Kartenspielende%20Zirkusleute%20-%20Gert%20Heinrich%20Wollheim%20.jpeg).
 
 _When you finally realise why you should not play cards with a clown..._
 
