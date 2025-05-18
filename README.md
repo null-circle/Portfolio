@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Mark Richards, an experienced data analyst working in planning/procurement for 7 years and trade compliance for 3 years, using Python (Pandas), R, SQL, PowerBI and advanced Excel. I have a Data Analysis Professional Certificate.
+I am Mark Richards, an experienced data analyst, working in planning/procurement for 7 years and trade compliance for 3 years, using Python (Pandas), R, SQL, PowerBI, SAP and advanced Excel. I have a Data Analysis Professional Certificate.
 
 Below are some links to case studies I created using Python and R for data analysis.
 
